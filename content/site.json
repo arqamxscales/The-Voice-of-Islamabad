@@ -1,0 +1,32 @@
+{
+  "name": "The Voice of Islamabad",
+  "tagline": "Independent News | Corporate Analysis | ABC Certified | Pakistan & Global",
+  "ticker": {
+    "en": [
+      "Weekly editorial review published",
+      "Islamabad business sentiment rises in Q2",
+      "Technology policy roundtable scheduled this Friday",
+      "Media ethics panel issues 2026 recommendations",
+      "Corporate disclosures show regional growth trends"
+    ],
+    "ur": [
+      "ہفتہ وار اداریہ شائع کر دیا گیا",
+      "اسلام آباد میں کاروباری اعتماد میں اضافہ",
+      "ٹیکنالوجی پالیسی راؤنڈ ٹیبل جمعہ کو",
+      "میڈیا اخلاقیات پینل کی 2026 سفارشات جاری",
+      "کارپوریٹ رپورٹس میں علاقائی ترقی کے رجحانات"
+    ]
+  },
+  "about": {
+    "en": "The Voice of Islamabad is a modern bilingual news and analysis platform focused on independent reporting, corporate intelligence, and Pakistan-global coverage standards.",
+    "ur": "دی وائس آف اسلام آباد ایک جدید دو لسانی نیوز اور تجزیاتی پلیٹ فارم ہے جو آزاد صحافت، کارپوریٹ انٹیلیجنس، اور پاکستان و عالمی معیار کی کوریج پر مرکوز ہے۔"
+  },
+  "contact": {
+    "email": "editor@voiceofislamabad.com",
+    "phone": "+92-51-000-0000",
+    "address": {
+      "en": "Islamabad, Pakistan",
+      "ur": "اسلام آباد، پاکستان"
+    }
+  }
+}

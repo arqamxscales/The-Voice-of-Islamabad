@@ -1,0 +1,27 @@
+{
+  "name": "the-voice-of-islamabad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent News | Corporate Analysis | ABC Certified | Pakistan & Global",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^14.1.2",
+    "next": "^15.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^9.12.0",
+    "eslint-config-next": "^15.0.0",
+    "typescript": "^5.6.2"
+  }
+}
