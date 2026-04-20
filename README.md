@@ -1,4 +1,4 @@
-# The Voice of Islamabad
+# The Voice of Islamabad - Web
 
 **Tagline:** Independent News | Corporate Analysis | ABC Certified | Pakistan & Global
 
@@ -36,10 +36,6 @@ A modern, bilingual (English/Urdu) dynamic news platform built with Next.js, des
 
 ## Content Editing (Weekly)
 
-### Option A: File-Based (simple)
-- Update ticker/about/contact in `content/site.json`
-- Add/edit articles in `content/posts/*.md`
-
 ### Option B: Admin Panel (recommended)
 - Deploy to Netlify
 - Enable **Identity** and **Git Gateway** in Netlify dashboard
@@ -47,11 +43,6 @@ A modern, bilingual (English/Urdu) dynamic news platform built with Next.js, des
 - Open `/admin`
 - Login and update posts/settings visually
 
-## Netlify Deployment
-
-- Build command: `npm run build`
-- Publish directory handled by Next.js Netlify plugin
-- `netlify.toml` already included
 
 ## Notes
 
