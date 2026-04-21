@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { HeaderAuthControls } from "@/components/HeaderAuthControls";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 import type { Locale } from "@/lib/i18n";
 import { labels } from "@/lib/i18n";
@@ -29,7 +30,10 @@ export function Header({ locale, siteName, tagline }: HeaderProps) {
             <p>{tagline}</p>
           </div>
         </Link>
-        <LanguageSwitcher locale={locale} />
+        <div className="header-actions">
+          <HeaderAuthControls locale={locale} />
+          <LanguageSwitcher locale={locale} />
+        </div>
       </div>
 
       <nav className="container nav-grid" aria-label="Primary">

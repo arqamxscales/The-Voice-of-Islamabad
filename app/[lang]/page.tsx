@@ -1,4 +1,6 @@
 import { ArticleCard } from "@/components/ArticleCard";
+import { LiveNewsFeed } from "@/components/LiveNewsFeed";
+import { RealDataPanel } from "@/components/RealDataPanel";
 import { labels, type Locale } from "@/lib/i18n";
 import { getAllPosts } from "@/lib/content";
 
@@ -12,6 +14,9 @@ export default async function HomePage({
 
   return (
     <section>
+      <RealDataPanel locale={lang} />
+      <LiveNewsFeed locale={lang} />
+
       <div className="section-head">
         <h2>{labels[lang].latest}</h2>
         <span>{labels[lang].weeklyUpdated}</span>

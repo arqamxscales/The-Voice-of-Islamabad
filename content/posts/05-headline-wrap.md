@@ -11,4 +11,8 @@ excerpt_ur: اس ہفتے پالیسی، کاروبار، میڈیا، اور ٹ
 ---
 ## This Week at a Glance
 
-A concise, high-signal summary of the most relevant developments for decision-makers.
+The dominant cross-sector themes were inflation sensitivity, regulatory signaling, and digital transformation pace. Business and policy desks both reflected a stronger demand for measurable outcomes over narrative positioning.
+
+## Cross-Desk Signal
+
+When FX movement, governance timing, and technology adoption shift in the same cycle, newsroom coverage must prioritize context and consequences. This wrap connects those signals for faster executive reading.

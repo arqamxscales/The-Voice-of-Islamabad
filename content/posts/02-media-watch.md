@@ -11,10 +11,14 @@ excerpt_ur: بڑے چینلز میں اداری معیارات اور ناظری
 ---
 ## Weekly Media Analysis
 
-This media report tracks newsroom quality indicators, verification discipline, and public-interest impact.
+This report evaluates how effectively major outlets separate verified reporting from opinion-led framing, especially on economic and policy stories where misinformation risk is high.
 
 ## What We Track
 
 1. Verification quality
 2. Public relevance
 3. Editorial transparency
+
+## Current Editorial Priority
+
+Audience trust improves when headlines match the underlying evidence, corrections are visible, and source attribution is explicit. Our media desk tracks these three factors as baseline accountability markers.

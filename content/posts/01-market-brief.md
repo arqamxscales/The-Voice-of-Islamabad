@@ -11,10 +11,14 @@ excerpt_ur: بڑے کارپوریٹ رجحانات، سرمایہ کاری کی 
 ---
 ## Key Highlights
 
-- Listed firms showed stronger weekly turnover.
-- Energy and telecom remained the top-performing sectors.
-- Corporate guidance reflects moderate growth momentum.
+- Investor focus remained concentrated in banking, energy, and telecom counters.
+- Currency stability and import-cost expectations continued to shape sector rotation.
+- Management guidance from major issuers pointed to margin discipline over aggressive expansion.
 
-## Editorial Note
+## Why It Matters
 
-The business desk will update this section every week with confirmed figures and board-level announcements.
+Corporate earnings expectations in Pakistan are increasingly tied to financing costs, exchange-rate movement, and demand visibility. For decision-makers, the key signal is not only top-line growth but also balance-sheet resilience and cash-flow quality.
+
+## Data Lens
+
+This brief is aligned with publicly available indicators such as PKR movement, policy-rate direction, and listed-market disclosures.

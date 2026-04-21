@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: arqamxscales/The-Voice-of-Islamabad
   branch: main
 
 local_backend: false

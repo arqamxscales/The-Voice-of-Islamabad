@@ -1,32 +1,32 @@
 {
   "name": "The Voice of Islamabad",
-  "tagline": "Independent News | Corporate Analysis | ABC Certified | Pakistan & Global",
+  "tagline": "Independent Newsroom | Economy, Policy, Technology & Media",
   "ticker": {
     "en": [
-      "Weekly editorial review published",
-      "Islamabad business sentiment rises in Q2",
-      "Technology policy roundtable scheduled this Friday",
-      "Media ethics panel issues 2026 recommendations",
-      "Corporate disclosures show regional growth trends"
+      "Islamabad weather, FX and market snapshot updates every 30 minutes",
+      "SBP policy, PKR movement and inflation signals tracked in one feed",
+      "Parliament, business regulation and technology governance coverage updated daily",
+      "Media verification standards and source transparency monitored weekly",
+      "Pakistan and global headlines curated for decision-makers"
     ],
     "ur": [
-      "ہفتہ وار اداریہ شائع کر دیا گیا",
-      "اسلام آباد میں کاروباری اعتماد میں اضافہ",
-      "ٹیکنالوجی پالیسی راؤنڈ ٹیبل جمعہ کو",
-      "میڈیا اخلاقیات پینل کی 2026 سفارشات جاری",
-      "کارپوریٹ رپورٹس میں علاقائی ترقی کے رجحانات"
+      "اسلام آباد موسم، زرِ مبادلہ اور مارکیٹ اسنیپ شاٹ ہر 30 منٹ میں اپ ڈیٹ",
+      "ایس بی پی پالیسی، روپے کی حرکت اور مہنگائی کے اشارے ایک ہی فیڈ میں",
+      "پارلیمنٹ، کاروباری ضوابط اور ٹیکنالوجی گورننس کی کوریج روزانہ اپ ڈیٹ",
+      "میڈیا ویریفکیشن اور سورس ٹرانسپیرنسی کی نگرانی ہفتہ وار",
+      "پاکستان اور عالمی ہیڈ لائنز فیصلہ سازوں کے لیے منتخب"
     ]
   },
   "about": {
-    "en": "The Voice of Islamabad is a modern bilingual news and analysis platform focused on independent reporting, corporate intelligence, and Pakistan-global coverage standards.",
-    "ur": "دی وائس آف اسلام آباد ایک جدید دو لسانی نیوز اور تجزیاتی پلیٹ فارم ہے جو آزاد صحافت، کارپوریٹ انٹیلیجنس، اور پاکستان و عالمی معیار کی کوریج پر مرکوز ہے۔"
+    "en": "The Voice of Islamabad is a bilingual newsroom focused on verified reporting, economic signals, public policy, media accountability, and technology governance across Pakistan and the wider region.",
+    "ur": "دی وائس آف اسلام آباد ایک دو لسانی نیوز روم ہے جو تصدیق شدہ رپورٹنگ، معاشی اشاروں، عوامی پالیسی، میڈیا احتساب، اور ٹیکنالوجی گورننس پر توجہ دیتا ہے۔"
   },
   "contact": {
-    "email": "editor@voiceofislamabad.com",
-    "phone": "+92-51-000-0000",
+    "email": "newsdesk@voiceofislamabad.com",
+    "phone": "+92-51-111-864-000",
     "address": {
-      "en": "Islamabad, Pakistan",
-      "ur": "اسلام آباد، پاکستان"
+      "en": "Blue Area, Islamabad, Pakistan",
+      "ur": "بلیو ایریا، اسلام آباد، پاکستان"
     }
   }
 }

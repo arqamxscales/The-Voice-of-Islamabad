@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
+import { AuthProvider } from "@/components/AuthProvider";
+import { ChatAssistant } from "@/components/ChatAssistant";
 import { notFound } from "next/navigation";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
@@ -43,11 +45,12 @@ export default async function LocaleLayout({
   const config = getSiteConfig();
 
   return (
-    <>
+    <AuthProvider>
       <Header locale={locale} siteName={config.name} tagline={config.tagline} />
       <NewsTicker locale={locale} items={config.ticker[locale]} />
       <main className="container">{children}</main>
       <Footer locale={locale} siteName={config.name} />
-    </>
+      <ChatAssistant locale={locale} />
+    </AuthProvider>
   );
 }
