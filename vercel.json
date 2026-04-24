@@ -10,7 +10,6 @@
     "NEXT_PUBLIC_SITE_URL": "@site_url",
     "NEXT_PUBLIC_REVALIDATE_INTERVAL": "300"
   },
-  "regions": ["iad1", "sfo1", "lhr1", "hnd1"],
   "functions": {
     "app/api/**": {
       "maxDuration": 60
