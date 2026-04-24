@@ -1,5 +1,4 @@
 {
-  "projectName": "the-voice-of-islamabad",
   "version": 2,
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
